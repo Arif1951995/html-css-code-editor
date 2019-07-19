@@ -1,0 +1,14 @@
+.title {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+.container {
+    border: 2px solid black;
+    height: 100vh;
+    display: flex;
+}
+.css,   .html, .output {
+    border: 2px solid black;
+    flex: 1;
+}
